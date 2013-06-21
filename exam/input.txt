@@ -1,0 +1,8 @@
+add 1 123
+add 1 023
+add -1 asf
+print
+remove -1
+print
+bla
+
